@@ -18,4 +18,4 @@ Follow these guidelines to name your technical documents:
 * Be consistent - Whichever guidelines you follow, it's important that you are consistent. This helps in any new member to understand and start contributing quick.
 
 ## References
-There is a quick infromative guide on naming conventions of file available on ![University of Edinburgh](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions).
+There is a quick infromative guide on naming conventions of file available on [University of Edinburgh](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions).
